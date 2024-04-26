@@ -1,5 +1,6 @@
 # Note Taker Starter Code
 https://notes-notes-notes.onrender.com/
+
  [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 ## Description
    This project is an application called Note Taker that can be used to write and save notes. 
